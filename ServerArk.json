@@ -5,13 +5,24 @@
       "HideIcon": false,
       "HideIconAfter": 60,
       "IconURL": "https://i.imgur.com/vDh638N.jpeg",
-      "DisableIconText": true,
+      "DisableIconText": false,
       "IconPosition": 0,
       "IconTextColor": 8,
-      "OpenOnStart": false,
+      "OpenOnStart": true,
+      "OpenOnStartOnlyNewPlayers": true,
       "UpdateInterval": 12
     },
-    "tabs": [],
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "Welcome",
+          "title1": "Welcome",
+          "text1": "Welcome to El_Blanchitos Server\nJoin our community on Discord!",
+          "imageurl": "https://i.imgur.com/vDh638N.jpeg"
+        }
+      }
+    ],
     "links": [
       {
         "link1": {
