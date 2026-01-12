@@ -4,7 +4,7 @@
             "OpenButton": 1,
             "HideIcon": false,
             "HideIconAfter": 60,
-            "IconURL": "https://i.imgur.com/42Dztnb.jpg",
+            "IconURL": "https://i.imgur.com/vDh638N.jpeg",
             "DisableIconText": false,
             "IconPosition": 0,
             "IconTextColor": 8,
@@ -18,10 +18,10 @@
                     "layout": 1,
                     "buttontext": "Welcome",
                     "title1": "Welcome",
-                    "text1": "The Best Medieval Server of Ark\n\n\nwith Mods and Engrams modified.\n
+                    "text1": "El_Blanchitos Server"
 <RichColor Color=\"1,0,0,10\">nuova riga</>\n
 <TextStyle.Red>nuova riga</>",
-					"imageurl": "https://i.imgur.com/5TulQCX.jpg"
+					"imageurl": "https://i.imgur.com/vDh638N.jpeg"
                 }
 			}
 			,
@@ -41,7 +41,7 @@
 <TextStyle.White>nuova riga</>\n
 <TextStyle.Black>nuova riga</>\n
 					",
-					"imageurl": "https://i.imgur.com/42Dztnb.jpg"
+					"imageurl": "https://i.imgur.com/vDh638N.jpeg"
                 }
             }
         ],
@@ -49,6 +49,6 @@
             {
                 "link1": {
                     "text": "Discord",
-                    "url": "https://discord.gg/MUyHfUyfeu"
+                    "url": "https://discord.gg/frNfJd2cjC"
                 }
             }
